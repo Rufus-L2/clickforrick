@@ -1,0 +1,45 @@
+body {
+  background: url("https://www.transparenttextures.com/patterns/old-wall.png");
+  color: rgb(0, 76, 255);
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.top-bar {
+  background-color: #00008b;
+  color: yellow;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 4px double lime;
+}
+
+.top-bar button {
+  font-family: "Comic Sans MS", cursive;
+  font-size: 16px;
+  background-color: yellow;
+  color: red;
+  border: 2px outset #000;
+  padding: 5px 15px;
+  cursor: pointer;
+}
+
+.content {
+  padding: 20px;
+}
+
+.marquee {
+  background: black;
+  color: #00ffff;
+  padding: 5px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.placeholder {
+  border: 3px dotted rgb(255, 0, 0);
+  padding: 15px;
+  margin: 20px 0;
+  background: #fefff0;
+}
