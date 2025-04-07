@@ -55,7 +55,7 @@ function showPage(page) {
 }
 
 function goToGame() {
-  window.location.href = "game.clickforrick.com";
+  window.location.href = "game.html";
 }
 function openInstagram() {
   window.open(
